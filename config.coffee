@@ -9,7 +9,7 @@ exports.config =
   files:
     javascripts:
       joinTo:
-        'out.js': /^src/
+        'backbone.composer.js': /^src/
         'test/test.js': /^test/
       order:
         before: [
