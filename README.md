@@ -1,4 +1,4 @@
-Backbone Composer
+Marionette Composer
 =================
 
 This project aims to provide a small library for making the management of
