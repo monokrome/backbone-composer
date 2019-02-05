@@ -1,6 +1,8 @@
 Marionette Composer
 =================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/monokrome/marionette-composer.svg)](https://greenkeeper.io/)
+
 This project aims to provide a small library for making the management of
 application state in backbone applications a bit more simple. It represents a
 stack of states that describe a specific grouping of views that represent the
